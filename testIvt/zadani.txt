@@ -1,0 +1,49 @@
+1. Napište funkci, která vezme dva øetìzce A a B. Zøetìzí je do tøetího øetìzce C.
+
+2. Napište funkci, která vezme dva øetìzce A a B a zøetìzí je, ale do A.
+
+3. Napište funkci, která vezme øetìzec a vypíše ho tak, e kadı znak zdvojí. Pø. A = "Ahoj", vıstup: AAhhoojj.
+
+4. Napište funkci , která vezme øetìzec a vytiskne z nìj podøetìzec, kterı urèíte pomocí parametru a) pozice, od které se má tisknout, b) poèet znakù.
+
+5. Napište funkci, která vezme øetìzec a znak z a vrátí poèet vıskytù daného znaku z.
+
+6. Napište funkci, která vezme øetìzec a vypíše ho pozpátku.
+
+7. Napište funkci, která vezme dva øetìzce A a B (jeden vstupní a druhı vıstupní) a do vıstupního øetìzce (kterı je 2× delší ne vstupní ) vloí znaky z prvního øetìzce takto:  a) A=“ahoj“ B=“ahojahoj“ , b) B=“ahojjoha“
+
+8. Napište funkci, která vezme øetìzec a všechny znaky 'a' nahradí znakem '*';
+
+9. Napište funkci, která vezme dva øetìzce a zkopíruje první øetìzec do druhého.
+
+10. Napište funkci, která vezme dva øetìzce a zkopíruje první øetìzec do druhého, ale v opaèném poøadí. KONEC -> CENOK
+
+11. Napište funkci, která vezme øetìzec a pøehodí v nìm první a poslední znak.
+
+12. Napište funkci, která vezme celé èíslo a øetìzec a do øetìzce vloí to èíslo pøevedené do dvojkové soustavy.
+
+13. Máme slovo: rozdìlte je do dvou dalších øetìzcù podle malıch a velkıch písmen. pø.: A = "Ahoj" , B = "hoj", C = "A".
+
+14. Napište funkci, která vezme øetìzec a vrátí 1, pokud se øetìzec skládá jen z písmen nebo vrátí 0 pokud ne.
+
+15. Napište funkci, která vezme øetìzec a otoèí v nìm znaky bez pomocného pole. Pø. slovo ? ovols
+
+16. Napište funkci, která vezme øetìzec a vrátí 1, pokud je  øetìzec palindromem, jinak vrátí 0? (oko, radar).
+
+17. Napište funkci, která vezme øetìzec a vytiskne ho tak, e všechna malá písmena vytiskne dvakrát. Ahoj -> Ahhoojj
+
+18. Napište funkci, která vezme øetìzec a kadé malé písmeno nahradí pøíslušnım velkım písmenem. Pø. A = "Dnes je krasne!", vıstup: A = "DNES JE KRASNE!"
+
+19. Napište funkci, která vezme øetìzec a dva znaky z1 a z2. Všechny znaky z1 v øetìzci zamìní za znaky z2.
+
+20. Napište funkci, která vezme øetìzec a nahradí v nìm všechny èíslice hvìzdièkou.
+
+21. Napište funkci, která vezme øetìzec a vymae z nìj první znak.
+
+22. Napište funkci, která vezme øetìzec a vrátí poèet velkıch písmen.
+
+23. Napište funkci, která vezme øetìzec a vrátí 1, pokud se øetìzec skládá jen z písmen (malá a velká písmena anglické abecedy) jinak vrátí 0.
+
+24. Napište funkci, která vyplní øetìzec dvìma znaky takto: a) aaabbb, b) ababab, c) abbabbabb. Funkce bude mít parametr n, kterı udává poèet sekvencí.
+
+25. Napište funkci, která vezme øetìzec a vrátí index znaku s nejvyšším ordinálním èíslem (èíslem v ASCII tabulce). Pø.: Ahoj -> 2 (index znaku 'o').
